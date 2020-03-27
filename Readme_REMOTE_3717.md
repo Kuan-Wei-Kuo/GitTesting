@@ -1,7 +1,5 @@
 # Hello World !
 
-Hee
-
 # P2
 
 # P3
